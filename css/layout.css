@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+
+html {
+  font-size: 62.5%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+
+}
+
+body {
+    background-color: white;
+    margin: 1rem;
+    border: solid #69013b 2px;
+    width: 90rem;
+    border-radius: 6px;
+
+}
+
+article {
+}
+
+header {
+    background-color: #69013b;
+    color: #F3D6CC;
+    padding: 0.5rem;
+    line-height: 1.5rem;
+    width: 89.1rem;
+
+}
+
+h1 {
+    font-size: 160%;
+    margin: 1rem;
+    
+}
+
+h2 {
+    font-size: 140%;
+    margin: 1rem;
+    font-style: italic;
+    
+}
+
+h3 {
+    font-size: 120%;
+    margin: 1rem;
+}
+
+h4 {
+    font-size: 120%;
+    margin: 1rem;
+}
+figure {
+  display: block;
+  background-color: white;
+}
+
+#logo img {
+  float: right;
+  width: 10rem;
+  font-size: 500%;
+  width: 1.2em;
+  text-align: center;
+  padding: 0.1em 0.1em 0;
+  background: #69013b;
+  color: white;
+  border-width: 0 0.2em 0.2em 0;
+  margin: 0 0.5em 0.2em 0;
+}
+
+footer {
+    background-color: #69013b;
+    color: #DEC8D4;
+    padding: 1rem;
+    width: 88.1rem;
+
+}
+
+.sisennys-2rem {
+    text-indent: 1rem;
+}
+
+.sisennys-4rem {
+    text-indent: 2rem;
+    
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.ops ol {
+    padding-left: 4rem;
+    list-style: decimal;
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+}
+
+li {
+    font-weight: 600;
+}
+
